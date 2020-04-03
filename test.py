@@ -1,4 +1,4 @@
-for x in range (6):
+for x in range (9):
     if x == 3 or x == 6:
         continue
     else:
